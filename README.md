@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mianmujeeb
 - 👀 I’m in love with Coding
-- 🌱 I’m currently learning Advance Python
+- 🌱 I’m currently working on Advance Python
 - 💞️ I’m looking to collaborate on Django Ptrojects
 - 📫 You can reach me here => mianmujeeb40@gmail.com
 
