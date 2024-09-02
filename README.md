@@ -4,7 +4,7 @@ I am proficient in Photoshop with experience in creating visually engaging socia
 
 Excited to take on new challenges and continue to grow and evolve as a developer.
 
-You can have a look at my work at <a href="mmsstudio.tech" target="_blank">MMS Studio</a></strong>
+You can have a look at my work at <a href="https://mmsstudio.tech" target="_blank">MMS Studio</a></strong>
 
 
 <!---
